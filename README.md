@@ -8,10 +8,10 @@ Graph1, Graph2, Graph3 - решения задачей нахождения чи
 
 Graph1
 
-![image](https://user-images.githubusercontent.com/88488743/177048184-3bf7a9f5-4ca2-4d24-be87-f3616ed38700.png)
+![image](https://user-images.githubusercontent.com/88488743/177048258-6e863e15-06bd-4cbd-a52b-1e192f41aed8.png)
 
 Graph2
 
-![image](https://user-images.githubusercontent.com/88488743/177048204-e736feef-a87f-4b96-9597-80a0377f6ad4.png)
+![image](https://user-images.githubusercontent.com/88488743/177048270-5376c3f8-3f9d-4194-a79f-6cfe0e57ddb8.png)
 
 Graph3
