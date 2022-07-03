@@ -4,7 +4,7 @@
 
 Graph1, Graph2, Graph3 - решения задачей нахождения численного решения. 
 
-![image](https://user-images.githubusercontent.com/88488743/177048160-f3dc7233-e7f9-49b0-b6a0-a1577cc7c276.png)
+![image](https://user-images.githubusercontent.com/88488743/177048238-a9bb99ea-bbc2-4c5c-8651-ab4f756507b5.png)
 
 Graph1
 
