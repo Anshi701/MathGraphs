@@ -12,6 +12,6 @@ Graph1
 
 Graph2
 
-![image](https://user-images.githubusercontent.com/88488743/177048270-5376c3f8-3f9d-4194-a79f-6cfe0e57ddb8.png)
+![image](https://user-images.githubusercontent.com/88488743/177048345-b23acae4-c9f3-48bf-b828-94cf42143810.png)
 
 Graph3
